@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Welcome to SITE</title>
+<title>Welcome to Site</title>
 </head>
 <body>
 <h2>${requestScope.msg }</h2>
