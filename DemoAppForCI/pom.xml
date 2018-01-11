@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mahendra</groupId>
   <artifactId>ROOT</artifactId>
+	<version>1.0</version>
   <packaging>war</packaging>
   <name>DemoAppForCI</name>
   <description>Demo For CI</description>
@@ -24,6 +25,5 @@
   		<version>2.2</version>
   	</dependency>
   </dependencies>
-  
   
 </project>
