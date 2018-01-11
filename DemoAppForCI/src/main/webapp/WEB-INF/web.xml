@@ -16,7 +16,7 @@
   </servlet-mapping>
   <context-param>
   	<param-name>ENVIORNMENT</param-name>
-  	<param-value>DEVELOPMENT</param-value>
+  	<param-value>STAGINGvalue>
   </context-param>
   
 </web-app>
