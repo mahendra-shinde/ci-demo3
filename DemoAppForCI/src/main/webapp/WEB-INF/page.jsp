@@ -10,7 +10,7 @@
 <h2>${requestScope.msg }</h2>
 <p>
 Welcome ${requestScope.user },<br/>
-Time on Server ${requestScope.date }
+Time on Server ${requestScope.date}
 </p>
 </body>
 </html>
