@@ -11,6 +11,10 @@
    <maven.compiler.target>1.8</maven.compiler.target>
    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+     <sonar.organization>org1011</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	  <sonar.projectKey>project1</sonar.projectKey>
+	  <SONAR_TOKEN>b8bca797a2645febef91f5ae1bb7905d00298b36</SONAR_TOKEN>
 </properties>
 
 	
