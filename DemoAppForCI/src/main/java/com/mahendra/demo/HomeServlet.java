@@ -36,7 +36,7 @@ public class HomeServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		String user = "Mahendra";
+		String user = "Jitendra";
 		Date date = new Date();
 		request.setAttribute("user", user);
 		request.setAttribute("date", date);
